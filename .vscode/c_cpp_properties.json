@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/opt/ros/melodic/include",
+                "/usr/include",
+                "${workspaceFolder}/**",
+                "home/workspace/jiangxinyu_ws/catkin_ws/src/occupany_mapping/include",
+                "home/workspace/jiangxinyu_ws/catkin_ws/src/occupany_mapping/include/occupany_mapping"
+            ],
+            "name": "Linux",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "compileCommands": "${workspaceFolder}/build/compile_commands.json"
+        }
+    ],
+    "version": 4
+}
